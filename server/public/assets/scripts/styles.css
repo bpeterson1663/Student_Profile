@@ -1,0 +1,14 @@
+img{
+  width: auto;
+  height: 150px;
+  overflow: hidden;
+}
+.container{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.kappa_student{
+  margin: 0 auto;
+  text-align: center;
+}

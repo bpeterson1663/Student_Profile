@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+  <head>
+      <title>Student Profiles</title>
+  </head>
+  <link rel="stylesheet" href="/assets/scripts/styles.css" />
+  <script type="text/javascript" src="/vendors/angular.min.js"></script>
+  <script type="text/javascript" src="/assets/scripts/app.js"></script>
+  <body>
+
+    <div class="container" ng-controller="MainController">
+      <h1>Student Profile</h1>
+
+      <div class="kappa_student" ng-repeat="kappas in studentArray">
+        <p><strong>Name:</strong> {{ kappas.name }}</p>
+        <img ng-src="{{ kappas.linkedIn }}" alt="image" /><br/>
+        <a ng-href="{{ kappas.github }}">Git Hub Accout</a>
+      </div>
+    </div>
+  </body>
+</html>
