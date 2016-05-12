@@ -1,5 +1,8 @@
-# student_profile
-Welcome to your peer / class challenge!
+# Student Profile
+
+https://thawing-cliffs-91561.herokuapp.com/
+
+Prime Digital Academy Assignment
 
 Remember JSON? Its coming back! The whole class will need to self organize to build a JSON file that contains several pieces of information about each student: - Their Name, - Github Profile Link, - LinkedIn Profile Picture Link
 
