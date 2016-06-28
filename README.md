@@ -1,8 +1,10 @@
 # Student Profile
 
+This assignment was one of our first projects with AngularJS at Prime Digital Academy. All of us in class had to work together to build a JSON file and use the information we provided to display in an Angular application.
+
 https://thawing-cliffs-91561.herokuapp.com/
 
-Prime Digital Academy Assignment
+##Directions
 
 Remember JSON? Its coming back! The whole class will need to self organize to build a JSON file that contains several pieces of information about each student: - Their Name, - Github Profile Link, - LinkedIn Profile Picture Link
 
